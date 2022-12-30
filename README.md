@@ -1,6 +1,6 @@
-# Colorado Ranked Slippi Leaderboard
+# Oklahoma Ranked Slippi Leaderboard
 
-Code powering https://grantismo.github.io/CoSlippiLeaderboard/#/
+Code powering https://lucasfwolf.github.io/ok-slippi-leaderboard/#
 
 ## Technologies
 
