@@ -10,9 +10,9 @@ const execPromise = util.promisify(exec);
 
 const getPlayerConnectCodes = async (): Promise<string[]> => { 
 	return ['KNEE#994','DONG#457', 'BRUH#128', 'SHIT#636', 'JCLOUD#0', 
-  'GOKU#958', 'SLED#237' , 'CATS#733', 'DIZ#656', 'CU#502'
+  'GOKU#958', 'SLED#237' , 'CATS#733', 'RUFI#0', 'CU#502'
  , 'OHKO#209', 'HIMB#0', 'ISLE#254', 'BAPS#637' , 'JETT#328'
-, 'RATT#138' , 'UBE#0', 'COOL#232' , 'EKO#736'] 
+, 'RATT#138' , 'UBE#0', 'COOL#232' , 'EKO#736', 'AMY#404', 'JJM#586', 'NUFF#931'] 
 };
 
 const getPlayers = async () => {
