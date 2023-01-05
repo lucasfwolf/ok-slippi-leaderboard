@@ -13,7 +13,7 @@ const getPlayerConnectCodes = async (): Promise<string[]> => {
   'GOKU#958', 'SLED#237' , 'CATS#733', 'RUFI#0', 'CU#502'
  , 'OHKO#209', 'HIMB#0', 'ISLE#254', 'BAPS#637' , 'JETT#328'
 , 'RATT#138' , 'UBE#0', 'COOL#232' , 'EKO#736', 'AMY#404', 'JJM#586', 
-'NUFF#931', 'ZOO#409'] 
+'NUFF#931', 'ZOO#409', 'FARM#158'] 
 };
 
 const getPlayers = async () => {
