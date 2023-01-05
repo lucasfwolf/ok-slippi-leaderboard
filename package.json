@@ -76,6 +76,7 @@
     "git-repo-name": "^1.0.1",
     "html-webpack-plugin": "^5",
     "identity-obj-proxy": "^3.0.0",
+    "node-loader": "^2.0.0",
     "open-browser-webpack-plugin": "^0.0.5",
     "prettier": "^2.3.2",
     "rimraf": "^3.0.2",
