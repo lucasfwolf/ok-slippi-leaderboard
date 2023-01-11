@@ -14,7 +14,7 @@ const getPlayerConnectCodes = async (): Promise<string[]> => {
  , 'OHKO#209', 'HIMB#0', 'ISLE#254', 'BAPS#637' , 'JETT#328'
 , 'RATT#138' , 'UBE#0', 'COOL#232' , 'EKO#736', 'AMY#404', 'JJM#586', 
 'NUFF#931', 'ZOO#409', 'FARM#158', 'ANXY#837', 'HI#128', 'BEN#3000', 'KAPT#967'
-, 'TIA#112', 'VINC#595'] 
+, 'TIA#112', 'VINC#595', 'SOCK#573'] 
 };
 
 const getPlayers = async () => {
